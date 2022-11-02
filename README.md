@@ -29,5 +29,5 @@
 
 ## 📊 Statistics
 
-<img align="left" width="48%" height="250px" src="https://github-readme-stats.vercel.app/api?username=F-Azevedo&show_icons=true&theme=dracula&count_private=true">
-<img align="right" width="48%" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=F-Azevedo&theme=dracula">
+<img align="left" width="45%" height="250px" src="https://github-readme-stats.vercel.app/api?username=F-Azevedo&show_icons=true&theme=dracula&count_private=true">
+<img align="right" width="45%" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=F-Azevedo&theme=dracula">
